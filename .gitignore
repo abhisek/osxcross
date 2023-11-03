@@ -1,6 +1,6 @@
 *.o
 *gcc*.tar.*
-*MacOSX*.*
+!tarballs/MacOSX12.3.sdk.tar.xz
 cpucount
 build/
 target/
